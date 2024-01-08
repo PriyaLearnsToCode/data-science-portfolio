@@ -153,3 +153,5 @@ cython_debug/
 
 # Do not commit pickle files
 *.pkl
+
+.DS_Store
